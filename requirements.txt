@@ -1,0 +1,1 @@
+specklepy[bundle]==2026.9.1
